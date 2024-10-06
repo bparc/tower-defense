@@ -1,0 +1,6 @@
+*.sublime-workspace
+*.exe
+*.ilk
+*.pdb
+*.obj
+vs/
